@@ -1,0 +1,2 @@
+Thanks for looking at the secuirity of our site!
+Please email grant@phantomsecuritygroup.org if you have any finds, other than SSL issues.
